@@ -1,0 +1,49 @@
+/* _content/PlatziWebsite/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-dngod0wzqi] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-dngod0wzqi] {
+  color: #0077cc;
+}
+
+.btn-primary[b-dngod0wzqi] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-dngod0wzqi], .nav-pills .show > .nav-link[b-dngod0wzqi] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-dngod0wzqi] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-dngod0wzqi] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-dngod0wzqi] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-dngod0wzqi] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-dngod0wzqi] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
